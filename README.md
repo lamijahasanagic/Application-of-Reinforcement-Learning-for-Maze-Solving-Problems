@@ -9,3 +9,7 @@ The maze solving problem is an ancient well-known problem solved by human and an
 ## Final Project Report 
 
 The Final Project Report can be found in \Application-of-Reinforcement-Learning-for-Maze-Solving-Problems\FPR
+
+## Video Presentation
+
+The Video Presentation can be found in \Application-of-Reinforcement-Learning-for-Maze-Solving-Problems\VP
