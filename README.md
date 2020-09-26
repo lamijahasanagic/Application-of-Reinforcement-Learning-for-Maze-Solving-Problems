@@ -12,4 +12,4 @@ The Final Project Report can be found in \Application-of-Reinforcement-Learning-
 
 ## Video Presentation
 
-The Video Presentation can be found in \Application-of-Reinforcement-Learning-for-Maze-Solving-Problems\VP
+The Video Presentation can be found in \Application-of-Reinforcement-Learning-for-Maze-Solving-Problems\Video Presentation
